@@ -104,7 +104,3 @@ is being used on a machine with a compatible GPU (more about
   Core(TM) i7-2600K CPU @ 3.40GHz), then the mean of the visible bias,
   and mean of the magnitude of weights.
 
-
-#### Contact
-
-Questions? Contact us: li.yao@umontreal.ca
